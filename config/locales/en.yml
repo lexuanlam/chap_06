@@ -1,0 +1,67 @@
+
+en:
+  static_pages:
+    home:
+      title: "Home | Ruby on Rails Tutorial"
+      welcome: "Welcome to the Sample App"
+      this_is: "This is the home page for the"
+      ror_tutorial: "Ruby on Rails Tutorial"
+      sample_app: "Sample app."
+      sign_up: "sign up now!"
+    help:
+      title: "Help | Ruby on Rails Tutorial"
+      help1: "help"
+      get: "Get help on the Ruby on Rails Tutorial at the"
+      a1: "Rails Tutorial help page"
+      to_get: "To get help on this sample app, see the"
+      ror: "Ruby on Rails Tutorial"
+    about:
+      title: "About | Ruby on Rails Tutorial"
+      about: "About"
+      the: "The"
+      a1: "Ruby on Rails Tutorial"
+      is: "is a"
+      a2: "book"
+      and: "and"
+      screencast_series: "screencast series"
+      to_teach: "to teach web development with"
+      a3: "Ruby on Rails"
+      this_is: "This is the sample application for the tutorial."
+    contact:
+      title: "Contact | Ruby on Rails Tutorial"
+      contact: "Contact"
+      ct: "Contact the Ruby on Rails Tutorial about the sample app at the"
+      a1: "contact page"
+
+  layouts:
+    footer:
+      the: "The"
+      by: "by"
+      about: "About"
+      contact: "Contact"
+      news: "News"
+      ror: "Ruby on Rails Tutorial"
+    header:
+      sample_app: "sample app"
+      home: "Home"
+      help: "Help"
+      login: "Log in"
+
+  users:
+    new:
+      title: "Sign up | Ruby on Rails Tutorial"
+      sign_up: "Sign up"
+      name: "Name"
+      email: "Email"
+      password: "Password"
+      password_confirmation: "Password confirmation"
+      create_account: "Create my account"
+
+
+
+
+
+
+
+
+
