@@ -1,0 +1,13 @@
+<footer class="footer">
+  <small>
+    <%= t ".the" %> <a href="http://www.railstutorial.org/"><%= t ".ror" %></a>
+    <%= t ".by" %> <a href="http://www.michaelhartl.com/">Michael Hartl</a>
+  </small>
+  <nav>
+    <ul>
+      <li><%= link_to (t ".about"),   "/#{locale}/about" %></li>
+      <li><%= link_to (t ".contact"), "/#{locale}/contact" %></li>
+      <li><a href="http://news.railstutorial.org/"><%= t ".news" %></a></li>
+    </ul>
+  </nav>
+</footer>

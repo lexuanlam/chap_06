@@ -1,0 +1,54 @@
+
+vi:
+  static_pages:
+    home:
+      title: "Trang chủ | Hướng dẫn về Ruby on Rails"
+      welcome: "Chào mừng bạn đến với ứng dụng mẫu"
+      this_is: "Đây là trang chủ của"
+      ror_tutorial: "Hướng dẫn về Ruby on Rails"
+      sample_app: "Ứng dụng mẫu"
+      sign_up: "đăng ký ngay!"
+    help:
+      title: "Trợ giúp | Hướng dẫn về Ruby on Rails"
+      help1: "trợ giúp"
+      get: "Nhận trợ giúp về Hướng dẫn Ruby on Rails tại"
+      a1: "Trang trợ giúp hướng dẫn của Rails"
+      to_get: "Để được trợ giúp về ứng dụng mẫu này, hãy xem phần"
+      ror: "Sách hướng dẫn Ruby on Rails"
+    about:
+      title: "Giới thiệu | Hướng dẫn về Ruby on Rails"
+      about: "Giới thiệu"
+      the: ""
+      a1: "Hướng dẫn về Ruby on Rails"
+      is: "là một"
+      a2: "sách"
+      and: "và"
+      screencast_series: "loạt screencast"
+      to_teach: "để dạy phát triển web với"
+      a3: "Ruby on Rails"
+      this_is: "Đây là ứng dụng mẫu cho hướng dẫn."
+    contact:
+      title: "Liên hệ | Hướng dẫn về Ruby on Rails"
+      contact: "Liên hệ"
+      ct: "Liên hệ với Hướng dẫn của Ruby on Rails về ứng dụng mẫu tại"
+      a1: "trang liên lạc"
+
+  layouts:
+    footer:
+      the: ""
+      by: "bởi"
+      about: "Giới thiệu"
+      contact: "Liên lạc"
+      news: "Tin tức"
+      ror: "Hướng dẫn về Ruby on Rails"
+    header:
+      sample_app: "ứng dụng mẫu"
+      home: "Trang chủ"
+      help: "Trợ giúp"
+      login: "Đăng nhập"
+
+  users:
+    new:
+      title: "Đăng kí | Hướng dẫn về Ruby on Rails"
+      sign_up: "Đăng kí"
+      text: "Đây sẽ là trang đăng kí cho người dùng"
