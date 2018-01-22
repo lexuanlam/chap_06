@@ -36,10 +36,10 @@ gem "config"
 
 gem "bootstrap-will_paginate", "1.0.0"
 gem "faker", "1.7.3"
+gem "figaro"
 gem "jquery-rails"
 gem "jquery-ui-rails", "~> 5.0.5"
 gem "will_paginate", "3.1.6"
-
 # Use Capistrano for deployment
 # gem "capistrano-rails", group: :development
 

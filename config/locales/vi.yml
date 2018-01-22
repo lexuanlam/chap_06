@@ -105,3 +105,12 @@ vi:
       text1: "Chào mừng đến ứng dụng mẫu! Click vào link bên dưới để kích hoạt
       tài khoản của bạn"
       activate: "Kích hoạt"
+
+  account_activation:
+    account_activated: "Tài khoản đã được kích hoạt"
+    invalid_activation: "link kích hoạt không hợp lệ"
+
+  message:
+    message_active: "Tài khoản chưa kích hoạt. Vui lòng kiểm tra email để kích
+    hoạt tài khoản"
+    message_create: "Vui lòng kiểm tra email để kích hoạt tài khoản"
