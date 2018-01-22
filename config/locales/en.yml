@@ -1,4 +1,3 @@
-
 en:
   static_pages:
     home:
@@ -46,17 +45,33 @@ en:
       home: "Home"
       help: "Help"
       login: "Log in"
+      account: "Account"
+      user: "User"
+      profile: "Profile"
+      settings: "Setting"
+      logout: "Log out"
+      login: "Log in"
 
   users:
     new:
       title: "Sign up | Ruby on Rails Tutorial"
       sign_up: "Sign up"
-      text: "This will be a signup page for new users."
+      name: "Name"
+      email: "Email"
+      password: "Password"
+      password_confirmation: "Password confirmation"
+      create_account: "Create my account"
+    show:
+      sorry: "Sorry don't find user"
+    create:
+      welcome: "Welcome to sample app"
 
-
-
-
-
-
-
+  sessions:
+    new:
+      title: "Log in | Ruby on Rails Tutorial"
+      login: "Log in"
+      signup_now: "Sign up now!"
+      email: "Email"
+      password: "Password"
+      new_uses: "New user?"
 

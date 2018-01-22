@@ -7,8 +7,8 @@
     <%= t ".sample_app" %>
   </h2>
 
-  <%= link_to (t ".sign_up"), "/#{locale}/signup", class: "btn btn-lg btn-primary" %>
+  <%= link_to (t ".sign_up"), signup_path, class: "btn btn-lg btn-primary" %>
 </div>
 
 <%= link_to image_tag("rails.png", alt: "Rails logo"),
-            'http://rubyonrails.org/' %>
+            "http://rubyonrails.org/" %>
