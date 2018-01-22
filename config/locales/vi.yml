@@ -51,17 +51,6 @@ vi:
       settings: "Cài đặt"
       logout: "Đăng xuất"
       login: "Đăng nhập"
-
-  users:
-    new:
-      title: "Đăng kí | Hướng dẫn về Ruby on Rails"
-      sign_up: "Đăng kí"
-      name: "Tên"
-      email: "Email"
-      password: "Mật khẩu"
-      password_confirmation: "Xác nhận mật khẩu"
-      create_account: "Tạo tài khoản"
-
     show:
       sorry: "Xin lỗi không tìm thấy người dùng"
     create:
@@ -75,3 +64,44 @@ vi:
       email: "Email"
       password: "Mật khẩu"
       new_uses: "Người dùng mới?"
+
+  users:
+    form:
+      name: "Tên"
+      email: "Email"
+      password: "Mật khẩu"
+      password_confirmation: "Xác nhận mật khẩu"
+      sorry: "Xin lỗi không tìm thấy người dùng"
+      welcome: "Chào mừng đến sample app"
+
+    new:
+      title: "Đăng kí | Hướng dẫn về Ruby on Rails"
+      create_account: "Tạo tài khoản"
+      sign_up: "Đăng kí"
+
+    edit:
+      edit_user: "Chỉnh sửa người dùng | Hướng dẫn về Ruby on Rails"
+      save_change: "Lưu thay đổi"
+      update_profile: "Cập nhập hồ sơ"
+      change: "Thay đổi"
+
+    index:
+      title: "Danh sách người dùng"
+      all_users: "Danh sách người dùng"
+      flash_update_profile: "thông tin đã được cập nhập"
+      flash_delete: "Xóa thành công"
+      not_found_user: "Xin lỗi không tìm thấy người dùng này"
+      please_login : "Vui lòng đăng nhập"
+      flash_error_delete: "Lỗi xóa người dùng này"
+
+    user:
+      delete: "xóa"
+      you_sure: "Bạn có chắc chắn?"
+
+  user_mailer:
+    account_activation:
+      sample_app: "Ứng dụng mẫu"
+      hi: "Chào"
+      text1: "Chào mừng đến ứng dụng mẫu! Click vào link bên dưới để kích hoạt
+      tài khoản của bạn"
+      activate: "Kích hoạt"

@@ -52,20 +52,6 @@ en:
       logout: "Log out"
       login: "Log in"
 
-  users:
-    new:
-      title: "Sign up | Ruby on Rails Tutorial"
-      sign_up: "Sign up"
-      name: "Name"
-      email: "Email"
-      password: "Password"
-      password_confirmation: "Password confirmation"
-      create_account: "Create my account"
-    show:
-      sorry: "Sorry don't find user"
-    create:
-      welcome: "Welcome to sample app"
-
   sessions:
     new:
       title: "Log in | Ruby on Rails Tutorial"
@@ -75,3 +61,43 @@ en:
       password: "Password"
       new_uses: "New user?"
 
+  users:
+    form:
+      name: "Name"
+      email: "Email"
+      password: "Password"
+      password_confirmation: "Password confirmation"
+      sorry: "Sorry don't find user"
+      welcome: "Welcome to sample app"
+
+    new:
+      title: "Sign up | Ruby on Rails Tutorial"
+      create_account: "Create my account"
+      sign_up: "Sign up"
+
+
+    edit:
+      edit_user: "Edit users | Ruby on Rails Tutorial"
+      save_change: "Save changes"
+      update_profile: "Update your profile"
+      change: "Change"
+
+    index:
+      title: "All users"
+      all_users: "All users"
+      flash_update_profile: "Profile updated"
+      flash_delete: "User deleted"
+      not_found_user: "Sorry don't find user"
+      please_login : "Please log in."
+      flash_error_delete: "Error delete user"
+
+    user:
+      delete: "delete"
+      you_sure: "You sure?"
+
+  user_mailer:
+    account_activation:
+      sample_app: "Sample app"
+      hi: "Hi"
+      text1: "Welcome to the Sample App! Click on the link below to activate your account:"
+      activate: "Activate"
