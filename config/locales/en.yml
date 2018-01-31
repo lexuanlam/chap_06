@@ -91,6 +91,7 @@ en:
       please_login : "Please log in."
       flash_error_delete: "Error delete user"
 
+
     user:
       delete: "delete"
       you_sure: "You sure?"
@@ -101,3 +102,11 @@ en:
       hi: "Hi"
       text1: "Welcome to the Sample App! Click on the link below to activate your account:"
       activate: "Activate"
+
+  account_activation:
+    account_activated: "Account activated!"
+    invalid_activation: "Invalid activation link"
+
+  message:
+    message_active: "Account not activated. Check your email for the activation link."
+    message_create: "Please check your email to activate your account"
